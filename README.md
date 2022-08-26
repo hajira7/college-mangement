@@ -1,4 +1,4 @@
-# college-mangaement
+# college-management
 student id
 courses
 subjects
