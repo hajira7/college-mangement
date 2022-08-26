@@ -2,3 +2,4 @@
 student id
 courses
 subjects
+sports
